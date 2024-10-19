@@ -1,7 +1,7 @@
 === Logo Carousel - Clients logo carousel for WP ===
 Contributors: bplugins, shehabulislam, abuhayat , shehab24
 Tags: slider, carousel, client logo slider, client logo carousel, logo slideshow
-Requires at least: 4.5
+Requires at least: 4.6
 Tested up to: 6.6.2
 Stable tag: 1.3.0
 Requires PHP: 7.1
