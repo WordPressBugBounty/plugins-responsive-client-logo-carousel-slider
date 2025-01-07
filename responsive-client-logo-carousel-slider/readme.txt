@@ -2,14 +2,14 @@
 Contributors: bplugins, shehabulislam, abuhayat , shehab24
 Tags: slider, carousel, client logo slider, client logo carousel, logo slideshow
 Requires at least: 4.6
-Tested up to: 6.6.2
+Tested up to: 6.7
 Stable tag: 1.3.0
 Requires PHP: 7.1
 Donate link: https://www.buymeacoffee.com/abuhayat
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Responsive Client Logo Carousel Slider Is a nice wordpress plugin which can be used to showcase your client logo in a professional way. 
+Responsive Client Logo Carousel Slider Is a nice WordPress plugin which can be used to showcase your client logo in a professional way. 
 
 == Description ==
 

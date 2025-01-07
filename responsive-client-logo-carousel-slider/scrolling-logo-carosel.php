@@ -4,7 +4,7 @@
  * Plugin URI:  http://bplugins.com
  * Description: Add scrolling logo carosel to wordpress website. display your client logo in a nice way.
  * Version: 1.3.0
- * Author: bPlugins LLC
+ * Author: bPlugins
  * Author URI: http://bplugins.com
  * License: GPLv3
  * Text Domain:  logo-carousel
