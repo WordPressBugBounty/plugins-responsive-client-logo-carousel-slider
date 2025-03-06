@@ -1,8 +1,8 @@
 === Logo Carousel - Clients logo carousel for WP ===
-Contributors: bplugins, shehabulislam, abuhayat , shehab24
+Contributors: bplugins, shehabulislam, abuhayat 
 Tags: slider, carousel, client logo slider, client logo carousel, logo slideshow
 Requires at least: 4.6
-Tested up to: 6.7
+Tested up to: 6.7.2
 Stable tag: 1.3.0
 Requires PHP: 7.1
 Donate link: https://www.buymeacoffee.com/abuhayat
